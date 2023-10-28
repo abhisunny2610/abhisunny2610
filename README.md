@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate frontend React developer and python developer from India and study data science from Teach Innovation, Jaipur.</h3>
+<h3 align="center">A passionate frontend React developer and python developer from India and learning data science from Teach Innovation, Jaipur.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisunny2610&label=Profile%20views&color=0e75b6&style=flat" alt="abhisunny2610" /> </p>
 
